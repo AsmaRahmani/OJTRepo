@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="springapp1"/>
+<aop-project name="spring2-mvc-xml-hello-world"/>
+<aop-project name="spring-boot-hello-world-example"/>
+<aop-project name="SpringDemo"/>
+<aop-project name="SpringMVCExample"/>
+<aop-project name="demo"/>
+<aop-project name="firstSpring"/>
+<aop-project name="STSSpringMVCHelloWorld"/>
+</aop-reference-model>
